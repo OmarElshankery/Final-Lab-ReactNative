@@ -1,6 +1,6 @@
 # Final-Lab-ReactNative
 
-GIF Will divided to 3 GIFs ( Due To Large GIF Size )
+GIF Will be divided to 4 GIFs ( Due To Large GIF Size )
 
 # GIF 1
 ![](https://github.com/OmarElshankery/Final-Lab-ReactNative/blob/main/gif1.gif)
