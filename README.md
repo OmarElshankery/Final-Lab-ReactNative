@@ -1,6 +1,4 @@
 # Final-Lab-ReactNative
 
-GIF Will be in assets file because it's size too big to upload
+GIF Will be in assets folder in screenshot folder ( Due To Large GIFs Size )
 
-# GIF 1
-![Alt Text](https://github.com/OmarElshankery/Final-Lab-ReactNative/blob/main/1.gif)
